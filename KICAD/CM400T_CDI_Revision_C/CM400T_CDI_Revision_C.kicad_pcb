@@ -6117,12 +6117,12 @@
 			)
 		)
 	)
-	(footprint "Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P12.50mm_Horizontal"
+	(footprint "footprints:C_Axial_L3.8mm_D2.6mm_P35.00mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "97ad8c9d-becb-4ad9-8656-f4ab2abb33ee")
 		(at 116.1775 91.25)
-		(descr "C, Axial series, Axial, Horizontal, pin pitch=12.5mm, , length*diameter=3.8*2.6mm^2, http://www.vishay.com/docs/45231/arseries.pdf")
-		(tags "C Axial series Axial Horizontal pin pitch 12.5mm  length 3.8mm diameter 2.6mm")
+		(descr "C, Axial series, Axial, Horizontal, pin pitch=35mm, , length*diameter=3.8*2.6mm^2")
+		(tags "C Axial series Axial Horizontal pin pitch 35mm  length 3.8mm diameter 2.6mm")
 		(property "Reference" "C1"
 			(at 19.05 0 0)
 			(layer "F.SilkS")
@@ -6182,7 +6182,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "faf892c1-ad2b-46ff-aec3-b33af2263107")
+			(uuid "c722e779-a591-4f4c-b9f8-9b95221188f8")
 		)
 		(fp_line
 			(start 4.23 -1.42)
@@ -6192,7 +6192,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "8e7328fd-5ccd-4a99-8b82-9c185d2cd987")
+			(uuid "bdd68a25-f191-479c-b627-c21402a3dbb0")
 		)
 		(fp_line
 			(start 4.23 1.42)
@@ -6202,7 +6202,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "4ebaa933-a6f3-474a-80d0-59c950689e8d")
+			(uuid "0f28891d-7af6-4265-9c5a-34ae552b7f99")
 		)
 		(fp_line
 			(start 31.75 -1.42)
@@ -6212,7 +6212,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "df714884-4df3-4a48-bed8-567137e56d39")
+			(uuid "b5e06658-9193-4b94-93ae-2f5c27377cd8")
 		)
 		(fp_line
 			(start 31.75 1.42)
@@ -6222,7 +6222,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "0d036e97-9b0f-4249-b838-ea5e11cde6a5")
+			(uuid "31f6c10c-4f14-46aa-8f0a-1b1d2bf926a6")
 		)
 		(fp_line
 			(start 33.655 0)
@@ -6232,7 +6232,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "6c70103f-0b22-4b5d-9830-b3e2d21c5819")
+			(uuid "ba692e5c-ac1c-43f5-b310-b12593445fd4")
 		)
 		(fp_line
 			(start -1.05 -1.55)
@@ -6242,7 +6242,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "03facf8e-cba0-44bb-a82d-861f1be6e812")
+			(uuid "e59a252f-5652-40db-9dc1-5fb029932ecc")
 		)
 		(fp_line
 			(start -1.05 1.55)
@@ -6252,7 +6252,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "f86b6510-843e-40d0-93c9-f6163dd3ab12")
+			(uuid "535ce620-46b0-4aac-9ffb-c68cb95d27d6")
 		)
 		(fp_line
 			(start 36.195 -1.55)
@@ -6262,7 +6262,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "bb428a55-8c2b-4eef-98c1-c8144f84a2f6")
+			(uuid "28578f63-a73f-4dcd-9042-89ac1abebd4b")
 		)
 		(fp_line
 			(start 36.195 1.55)
@@ -6272,7 +6272,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "91290141-ddbb-423c-97a3-6aca5bc36522")
+			(uuid "e29f83cd-e7c4-4aa9-a901-0ef330e3dd12")
 		)
 		(fp_line
 			(start 0 0)
@@ -6282,7 +6282,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "6bff2590-fc2c-4ab9-b7cb-f49899b8069c")
+			(uuid "dcbe0a41-38e2-4461-bf86-be8ecd0ca8d6")
 		)
 		(fp_line
 			(start 4.35 -1.3)
@@ -6292,7 +6292,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "40e02e86-68a1-4cea-b391-c6159b07486c")
+			(uuid "20fd197f-1062-4c06-9674-594ebe9f2df7")
 		)
 		(fp_line
 			(start 4.35 1.3)
@@ -6302,7 +6302,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "8be87a0d-1f7c-428d-94ae-ffbc86511463")
+			(uuid "8e805629-7508-46f5-a146-cb7d2f0447d8")
 		)
 		(fp_line
 			(start 31.75 -1.3)
@@ -6312,7 +6312,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "d2898aa5-860e-4e74-a372-5df6b936c862")
+			(uuid "ba044ae9-08ee-4227-86fe-8c26dbe35656")
 		)
 		(fp_line
 			(start 31.75 1.3)
@@ -6322,7 +6322,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "81a9a568-7ca0-4c65-bf27-e6a8fdec9cc6")
+			(uuid "5441bf8b-2cb6-4335-8012-92b9b75e323d")
 		)
 		(fp_line
 			(start 34.29 0)
@@ -6332,7 +6332,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "bcce2f9b-6721-4196-8c10-a2c6ecaec59e")
+			(uuid "8c20cc30-9f9a-46ed-922b-851cbd2f3dc7")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 19.05 0 0)
@@ -6366,7 +6366,7 @@
 			(uuid "6f71a663-ab43-4e48-b2c2-2460260caf2f")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Capacitor_THT.3dshapes/C_Axial_L3.8mm_D2.6mm_P12.50mm_Horizontal.wrl"
+		(model "${KICAD9_3DMODEL_DIR}/Capacitor_THT.3dshapes/CP_Axial_L29.0mm_D10.0mm_P35.00mm_Horizontal.wrl"
 			(offset
 				(xyz 0 0 0)
 			)

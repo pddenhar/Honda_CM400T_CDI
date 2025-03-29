@@ -4773,7 +4773,25 @@
 			"MhlMOBoJGzOXzwyCKK2VfBWGjA+EZM4osUtAKaSQH/DKXB1fmV2BoWka2LlkMonwAk+JEX0bHMrZ"
 			"3uvSlIUPRIG014WlBCxqh1z0imRm11nh1nI2SGSCdQ2FLKw0/CuDuYJWLdAgpF6PSaZSqStloVWV"
 			"M7FAfSczx+ysk+zxUmLAQs6Iv7J7K4HwlmyzErp9aQEjRO54VgIIVo4SWFD0wE6Lps9adrcBpIG7"
-			"iw3DcLlckOb/A3P5Xpd7T4mZAAAAAElFTkSuQmCC"
+			"iw3DcLlckOb/A3P5Xpd7T4mZAAAAAElFTkSuQmCCeIx0cAd7CAd5SIdwcAd6cAN2eIdwIIcZzBEO"
+			"7JAO4TAPbjAP4/AO8FAOMxDEHd4hHNghHcJhHmYwiTu8gzvQQzm0Azy8gzyEAzvM8BR2YAd7aAc3"
+			"aIdyaAc3gIdwkIdwYAd2KAd2+AV2eId3gIdfCIdxGIdymId5mIEs7vAO7uAO9cAO7DADYsihHOSh"
+			"HMyhHOShHNxhHMohHMSBHcphBtaQQznIQzmYQznIQzm4wziUQziIAzuUwy+8gzz8gjvUAzuwwwzH"
+			"aYdwWIdycIN0aAd4YId0GId0oIcZzlMP7gAP8lAO5JAO40AP4SAO7FAOMyAoHdzBHsJBHtIhHNyB"
+			"HtzgHOThHeoBHmYYUTiwQzqcgzvMUCR2YAd7aAc3YId3eAd4mFFM9JAP8FAOMx5qHsphHOghHd7B"
+			"HX4BHuShHMwhHfBhBlSFgzjMwzuwQz3QQzn8wjzkQzuIwzuww4zFCod5mId3GId0CAd6KAdymIFc"
+			"4xAO7MAO5VAO8zAjwdJBHuThF9jhHd4BHgAAAAB5IAAADQMAAGIeSCBDiAwZORkkkJFAxsjIaCJQ"
+			"CBQynhgZIUfIkFGkB16wQwEAAABNhCSHcylJE12X8zgP96gBx02ShnFKR1lTdRlIhGFalxhLdBUG"
+			"sTzXdVHTZVyG1WjR0ijSAlWPASGagylGJEEb1iwM8mAYRUmSJEULUU1fGFiZshwX9kCcBAAAAGZ1"
+			"bmN0aW9uX3R5cGVpbXBsaWNpdF9hcmdfZGVzY01vZHVsZU1EaXNQcmVjaXNlY29tcE9wdERlbm9y"
+			"bXNBcmVaZXJvQ29ycmVjdGx5Um91bmRlZERpdlNxcnRPcHREaXNhYmxlTWFkRW5hYmxlTm9TaWdu"
+			"ZWRaZXJvc0Zsb2F0Um91bmRpbmdNb2RlRmxvYXRDdnRJbnRSb3VuZGluZ01vZGVVbnNhZmVNYXRo"
+			"T3B0aW1pemF0aW9uc0Zpbml0ZU1hdGhPbmx5RmFzdFJlbGF4ZWRNYXRoRGFzaEdTcGVjaWZpZWRG"
+			"YXN0Q29tcGlsYXRpb25Vc2VTY3JhdGNoU3BhY2VQcml2YXRlTWVtb3J5UmVsYXhlZEJ1aWx0aW5z"
+			"U3ViZ3JvdXBJbmRlcGVuZGVudEZvcndhcmRQcm9ncmVzc1JlcXVpcmVkR3JlYXRlclRoYW4yR0JC"
+			"dWZmZXJSZXF1aXJlZEdyZWF0ZXJUaGFuNEdCQnVmZmVyUmVxdWlyZWRQdXNoQ29uc3RhbnRzRW5h"
+			"YmxlSGFzQnVmZmVyT2Zmc2V0QXJncmVwbGFjZUdsb2JhbE9mZnNldHNCeVplcm9mb3JjZVBpeGVs"
+			"U2hhZGVyU0lNRE1vZGVwaXhlbFNoYWRlckRvTg=="
 		)
 	)
 	(label "Fixed Pulse Limiter"
@@ -5791,7 +5809,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P12.50mm_Horizontal"
+		(property "Footprint" "footprints:C_Axial_L3.8mm_D2.6mm_P35.00mm_Horizontal"
 			(at 218.44 43.4848 0)
 			(effects
 				(font
